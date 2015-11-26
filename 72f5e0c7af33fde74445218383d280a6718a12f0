@@ -1,0 +1,7 @@
+Code-Review+2: RDO CI Service Account <openstack-ci-service@redhat.com>
+Verified+1: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-by: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-at: Thu, 26 Nov 2015 11:31:48 +0100
+Reviewed-on: https://review.gerrithub.io/253382
+Project: rdo-puppet-modules/puppet-tempest
+Branch: refs/heads/recomb-original-master-a26f81393bd829ddbc8ca8e1e8de226538208f1e
